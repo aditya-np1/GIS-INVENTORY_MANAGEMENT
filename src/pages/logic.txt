@@ -1,0 +1,22 @@
+// handling new arrival container 
+-> just update container's location ,no event-driven
+
+//show data on map on serch;
+getgrids();
+const cid = document.querySelector('.search');
+const q = "select grid_id from container where container_id = cid;
+const grid = db.query(q,'container');
+const temp = "select lat,lng from container where grid_id = grid";
+const point =  db.query(temp,"container");
+export{point};
+
+//on map.js 
+//highlight that grid; 
+
+//typical show when entry
+ if (window.google.maps.geometry.poly.containsLocation(latLng, bermudaTriangle)) {
+              if(!grid[j].stack.includes(containerData[i].container_id)) {
+                updateGrid(grid[j].id, containerData[i].container_id);
+              }
+ }
+

@@ -1,0 +1,38 @@
+.paddingall {
+    padding: 10px 10px 10px 10px;
+}
+
+.containertitle {
+    font-weight: 600;
+}
+
+.containersubtitle {
+    font-size: 14px;
+}
+
+.iconstyle {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.gradient {
+    background: rgb(40, 34, 70);
+    background: linear-gradient(158deg, rgba(40, 34, 70, 1) 0%, rgba(30, 47, 141, 1) 100%);
+}
+
+.gradientLight {
+    background: rgb(53, 138, 148);
+    background: linear-gradient(158deg, rgba(53, 138, 148, 1) 0%, rgba(91, 80, 96, 1) 100%);
+}
+
+.bgcolor {
+    min-height: 100vh;
+    background: #ECEFF1;
+    background: linear-gradient(158deg, rgb(224, 224, 224) 0%, rgba(233, 237, 254) 100%);
+}
+
+.map-container {
+    width: 100%;
+    height: 75vh;
+}
