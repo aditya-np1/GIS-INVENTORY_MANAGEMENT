@@ -11,10 +11,11 @@ Database design : https://drive.google.com/file/d/1NtEbi1xx7fmo1deYPEh_PD47Xp2lV
 ## Available Scripts
 
 In the project directory, you can run:
-###`npm i` to install all dependancy
+### `npm i` 
+to install all dependancy
+
+
 ### `npm start`
-
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
