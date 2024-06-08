@@ -2,13 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To see Demo : https://drive.google.com/file/d/1VLiFICLSMF6KVXCY1WxGO8IiGLSXCUzU/view?usp=sharing
+To see SRS document : https://docs.google.com/document/d/11uGXuXiaGio7zhE8ZrgugApoa83IT--3/edit?usp=drive_link&ouid=117716215023905282585&rtpof=true&sd=true
+Database design : https://drive.google.com/file/d/1NtEbi1xx7fmo1deYPEh_PD47Xp2lVMR6/view?usp=drive_link
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+###`npm i` to install all dependancy
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
