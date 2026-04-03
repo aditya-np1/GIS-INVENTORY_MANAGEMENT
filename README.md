@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <p>
-To see SRS document : https://docs.google.com/document/d/11uGXuXiaGio7zhE8ZrgugApoa83IT--3/edit?usp=drive_link&ouid=117716215023905282585&rtpof=true&sd=true
+To see more details :  https://docs.google.com/presentation/d/1yaTpWyPDEWIwqASLiHhOi1WRBy_GIjlI/edit?usp=drive_link&ouid=117716215023905282585&rtpof=true&sd=true
 </p>
 <p>
 Database design : https://drive.google.com/file/d/1NtEbi1xx7fmo1deYPEh_PD47Xp2lVMR6/view?usp=drive_link
